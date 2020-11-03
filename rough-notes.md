@@ -53,7 +53,7 @@ total 4
 drwxrwxrwx 1 cisco cisco 4096 Nov  3 13:04 devops-git-branch-demo
 cisco@USUJLANA-41PCQ:~/Desktop/TFTP/devops-git-branch-demo$
 
-[+] Notice a new directory devops-git-branch-demo got created
+[+] Notice a new directory devops-git-branch-demo got created. cd into it
 cisco@USUJLANA-41PCQ:~/Desktop/TFTP/devops-git-branch-demo/devops-git-branch-demo$ ls
 unpacking_ucsm.sh
 cisco@USUJLANA-41PCQ:~/Desktop/TFTP/devops-git-branch-demo/devops-git-branch-demo$
